@@ -1,5 +1,9 @@
 # JavaDeleteFile
 这是Java做的一个小工具，但思想为删除一个文件或者文件夹而来，不局限语言。
+# 基本流程图
+![image](https://github.com/AlairEileen/JavaDeleteFile/blob/master/Resources/Resources/%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4%E6%B5%81%E7%A8%8B%E4%BC%81%E4%B8%9A%E7%89%881.jpg)
+![image](https://github.com/AlairEileen/JavaDeleteFile/blob/master/Resources/Resources/%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4%E6%B5%81%E7%A8%8B%E4%BC%81%E4%B8%9A%E7%89%881.jpg)
+![image](https://github.com/AlairEileen/JavaDeleteFile/blob/master/Resources/Resources/%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4%E6%B5%81%E7%A8%8B%E4%BC%81%E4%B8%9A%E7%89%881.jpg)
 # 效果展示
 ![image](https://github.com/AlairEileen/JavaDeleteFile/blob/master/Resources/Resources/01.png)
 ![image](https://github.com/AlairEileen/JavaDeleteFile/blob/master/Resources/Resources/02.png)
@@ -58,7 +62,5 @@
 # 大家用过后也和我联系下
       微信：AlairEileen、skype：Alair Eileen
 # 也希望大家用的好的也给我些资助，谢谢大家！！！
-
 ![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/WeChatCode.jpg)
-
 ![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/AlipayCode.jpg)
