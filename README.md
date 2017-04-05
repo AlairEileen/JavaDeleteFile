@@ -1,5 +1,7 @@
 # JavaDeleteFile
 这是Java做的一个小工具，但思想为删除一个文件或者文件夹而来，不局限语言。
+# 效果展示
+
 # 使用方法及代码
  FileManage fileManage = new FileManager();
  FileManage.DelStatusListen delStatusListen = new FileManage.DelStatusListen() {
@@ -49,4 +51,14 @@
                 System.out.println(delErrorType == FileManage.DelErrorType.NOTHINGNESS ? "文件不存在！" : "其他错误");
                 lbFinishStatus.setText(delErrorType == FileManage.DelErrorType.NOTHINGNESS ? "文件不存在！" : "其他错误");
             }
-        };
+        };
+        
+# 大家用过后也和我联系下
+      微信：AlairEileen、skype：Alair Eileen
+# 也希望大家用的好的也给我些资助，谢谢大家！！！
+
+![image](https://github.com/AlairEileen/WeChatSubscriptionToolContentDownload/blob/master/Resources/Resources/Screenshot%20(3).png)
+
+![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/WeChatCode.jpg)
+
+![image](https://github.com/AlairEileen/AlairSpace/blob/master/Resources/AlipayCode.jpg)
